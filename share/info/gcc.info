@@ -1,5 +1,5 @@
 This is doc/gcc.info, produced by makeinfo version 4.13 from
-/tmp/dgboter/bbs/rhev-vm1--rhe6x86_64/buildbot/rhe6x86_64--arm-linux-gnueabi/build/src/gcc/gcc/doc/gcc.texi.
+/tmp/dgboter/bbs/rhev-vm2--rhe6x86_64/buildbot/rhe6x86_64--arm-linux-gnueabi/build/src/gcc/gcc/doc/gcc.texi.
 
 Copyright (C) 1988-2018 Free Software Foundation, Inc.
 
@@ -61,7 +61,7 @@ Introduction
 This manual documents how to use the GNU compilers, as well as their
 features and incompatibilities, and how to report bugs.  It corresponds
 to the compilers (GNU Toolchain for the A-profile Architecture
-8.2-2018.11 (arm-rel-8.26)) version 8.2.1.  The internals of the GNU
+8.2-2019.01 (arm-rel-8.28)) version 8.2.1.  The internals of the GNU
 compilers, including how to port them to new targets and some
 information about how to write front ends for new languages, are
 documented in a separate manual.  *Note Introduction: (gccint)Top.
@@ -55259,7 +55259,7 @@ File: gcc.info,  Node: Bug Reporting,  Prev: Bug Criteria,  Up: Bugs
 =================================
 
 Bugs should be reported to the bug database at
-`https://gcc.gnu.org/bugs/'.
+`https://bugs.linaro.org/'.
 
 
 File: gcc.info,  Node: Service,  Next: Contributing,  Prev: Bugs,  Up: Top
@@ -64408,14 +64408,14 @@ Node: Warnings and Errors2314098
 Node: Bugs2315860
 Node: Bug Criteria2316327
 Node: Bug Reporting2318537
-Node: Service2318755
-Node: Contributing2319574
-Node: Funding2320314
-Node: GNU Project2322803
-Node: Copying2323449
-Node: GNU Free Documentation License2360977
-Node: Contributors2386114
-Node: Option Index2427047
-Node: Keyword Index2688696
+Node: Service2318754
+Node: Contributing2319573
+Node: Funding2320313
+Node: GNU Project2322802
+Node: Copying2323448
+Node: GNU Free Documentation License2360976
+Node: Contributors2386113
+Node: Option Index2427046
+Node: Keyword Index2688695
 
 End Tag Table

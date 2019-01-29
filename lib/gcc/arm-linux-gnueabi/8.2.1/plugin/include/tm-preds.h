@@ -1,5 +1,5 @@
 /* Generated automatically by the program 'build/genpreds'
-   from the machine description file '/tmp/dgboter/bbs/rhev-vm1--rhe6x86_64/buildbot/rhe6x86_64--arm-linux-gnueabi/build/src/gcc/gcc/config/arm/arm.md'.  */
+   from the machine description file '/tmp/dgboter/bbs/rhev-vm2--rhe6x86_64/buildbot/rhe6x86_64--arm-linux-gnueabi/build/src/gcc/gcc/config/arm/arm.md'.  */
 
 #ifndef GCC_TM_PREDS_H
 #define GCC_TM_PREDS_H

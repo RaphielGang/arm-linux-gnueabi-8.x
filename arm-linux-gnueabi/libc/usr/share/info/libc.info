@@ -1,5 +1,5 @@
 This is
-/tmp/dgboter/bbs/rhev-vm1--rhe6x86_64/buildbot/rhe6x86_64--arm-linux-gnueabi/build/build-arm-linux-gnueabi/obj/glibc/manual/libc.info,
+/tmp/dgboter/bbs/rhev-vm2--rhe6x86_64/buildbot/rhe6x86_64--arm-linux-gnueabi/build/build-arm-linux-gnueabi/obj/glibc/manual/libc.info,
 produced by makeinfo version 4.13 from libc.texinfo.
 
 INFO-DIR-SECTION Software libraries
@@ -2060,8 +2060,8 @@ END-INFO-DIR-ENTRY
    This file documents the GNU C Library.
 
    This is `The GNU C Library Reference Manual', for version 2.28
-(GNU Toolchain for the A-profile Architecture 8.2-2018.11
-(arm-rel-8.26)).
+(GNU Toolchain for the A-profile Architecture 8.2-2019.01
+(arm-rel-8.28)).
 
    Copyright (C) 1993-2018 Free Software Foundation, Inc.
 
@@ -2089,10 +2089,10 @@ libc.info-6: 1566721
 libc.info-7: 1865362
 libc.info-8: 2163502
 libc.info-9: 2460734
-libc.info-10: 2757249
-libc.info-11: 3049231
-libc.info-12: 3326325
-libc.info-13: 3622666
+libc.info-10: 2757913
+libc.info-11: 3049895
+libc.info-12: 3327111
+libc.info-13: 3623452
 
 Tag Table:
 (Indirect)
@@ -2785,59 +2785,59 @@ Node: Non-POSIX Extensions2720358
 Node: Default Thread Attributes2720799
 Node: Internal Probes2722075
 Node: Memory Allocation Probes2722931
-Node: Mathematical Function Probes2733469
-Node: Non-local Goto Probes2738188
-Node: Tunables2739937
-Node: Tunable names2741507
-Node: Memory Allocation Tunables2742482
-Node: Elision Tunables2749564
-Node: Hardware Capability Tunables2752367
-Node: Language Features2756309
-Node: Consistency Checking2757249
-Node: Variadic Functions2762044
-Node: Why Variadic2763121
-Node: How Variadic2765094
-Node: Variadic Prototypes2766326
-Node: Receiving Arguments2767480
-Node: How Many Arguments2770164
-Node: Calling Variadics2771839
-Node: Argument Macros2773952
-Node: Variadic Example2777402
-Node: Null Pointer Constant2778529
-Node: Important Data Types2779618
-Node: Data Type Measurements2781473
-Node: Width of Type2782335
-Node: Range of Type2784437
-Node: Floating Type Macros2788000
-Node: Floating Point Concepts2789267
-Node: Floating Point Parameters2793012
-Node: IEEE Floating Point2799969
-Node: Structure Measurement2801735
-Node: Library Summary2802526
-Node: Installation3048369
-Node: Configuring and compiling3049231
-Node: Running make install3067435
-Node: Tools for Compilation3071205
-Node: Linux3075127
-Node: Reporting Bugs3077692
-Node: Maintenance3080044
-Node: Source Layout3080445
-Node: Adding Platform-specific3084518
-Node: Porting3087556
-Node: Hierarchy Conventions3095288
-Node: Porting to Unix3100022
-Node: Platform3102046
-Node: PowerPC3102426
-Node: RISC-V3107238
-Node: Contributors3108206
-Node: Free Manuals3123343
-Node: Copying3128282
-Node: Documentation License3156454
-Node: Concept Index3181612
-Node: Type Index3303567
-Node: Function Index3326325
-Node: Variable Index3489922
-Node: File Index3622666
+Node: Mathematical Function Probes2734133
+Node: Non-local Goto Probes2738852
+Node: Tunables2740601
+Node: Tunable names2742171
+Node: Memory Allocation Tunables2743146
+Node: Elision Tunables2750228
+Node: Hardware Capability Tunables2753031
+Node: Language Features2756973
+Node: Consistency Checking2757913
+Node: Variadic Functions2762708
+Node: Why Variadic2763785
+Node: How Variadic2765758
+Node: Variadic Prototypes2766990
+Node: Receiving Arguments2768144
+Node: How Many Arguments2770828
+Node: Calling Variadics2772503
+Node: Argument Macros2774616
+Node: Variadic Example2778066
+Node: Null Pointer Constant2779193
+Node: Important Data Types2780282
+Node: Data Type Measurements2782137
+Node: Width of Type2782999
+Node: Range of Type2785101
+Node: Floating Type Macros2788664
+Node: Floating Point Concepts2789931
+Node: Floating Point Parameters2793676
+Node: IEEE Floating Point2800633
+Node: Structure Measurement2802399
+Node: Library Summary2803190
+Node: Installation3049033
+Node: Configuring and compiling3049895
+Node: Running make install3068099
+Node: Tools for Compilation3071869
+Node: Linux3075791
+Node: Reporting Bugs3078356
+Node: Maintenance3080690
+Node: Source Layout3081091
+Node: Adding Platform-specific3085164
+Node: Porting3088202
+Node: Hierarchy Conventions3095934
+Node: Porting to Unix3100668
+Node: Platform3102692
+Node: PowerPC3103072
+Node: RISC-V3107884
+Node: Contributors3108852
+Node: Free Manuals3123989
+Node: Copying3128928
+Node: Documentation License3157100
+Node: Concept Index3182258
+Node: Type Index3304213
+Node: Function Index3327111
+Node: Variable Index3490708
+Node: File Index3623452
 
 End Tag Table
 

@@ -5,7 +5,7 @@
 ;;; This file should be parsed by the same gengtype which wrote it.
 
 (!version  "8.2.1 20180802")
-(!srcdir  "/tmp/dgboter/bbs/rhev-vm1--rhe6x86_64/buildbot/rhe6x86_64--arm-linux-gnueabi/build/src/gcc/gcc")
+(!srcdir  "/tmp/dgboter/bbs/rhev-vm2--rhe6x86_64/buildbot/rhe6x86_64--arm-linux-gnueabi/build/src/gcc/gcc")
 (!languages 10 ada brig c cp fortran go jit lto objc objcp)
 (!fileslist 210
  (!srcfile 1023  "../libcpp/include/line-map.h")
@@ -468,11 +468,11 @@
                    (!srcfileloc  "tree-core.h" 921)
                    nil )
                   (!pair  "u"
-                   (!type union 25 nil  gc_unused "anonymous:/tmp/dgboter/bbs/rhev-vm1--rhe6x86_64/buildbot/rhe6x86_64--arm-linux-gnueabi/build/src/gcc/gcc/tree-core.h:923"
+                   (!type union 25 nil  gc_unused "anonymous:/tmp/dgboter/bbs/rhev-vm2--rhe6x86_64/buildbot/rhe6x86_64--arm-linux-gnueabi/build/src/gcc/gcc/tree-core.h:923"
                     (!srcfileloc  "tree-core.h" 1005)
                     (!fields 8 
                      (!pair  "bits"
-                      (!type struct 26 nil  gc_unused "anonymous:/tmp/dgboter/bbs/rhev-vm1--rhe6x86_64/buildbot/rhe6x86_64--arm-linux-gnueabi/build/src/gcc/gcc/tree-core.h:926"
+                      (!type struct 26 nil  gc_unused "anonymous:/tmp/dgboter/bbs/rhev-vm2--rhe6x86_64/buildbot/rhe6x86_64--arm-linux-gnueabi/build/src/gcc/gcc/tree-core.h:926"
                        (!srcfileloc  "tree-core.h" 949)
                        (!fields 16 
                         (!pair  "lang_flag_0"
@@ -544,7 +544,7 @@
                       (!srcfileloc  "tree-core.h" 949)
                       nil )
                      (!pair  "int_length"
-                      (!type struct 27 nil  gc_unused "anonymous:/tmp/dgboter/bbs/rhev-vm1--rhe6x86_64/buildbot/rhe6x86_64--arm-linux-gnueabi/build/src/gcc/gcc/tree-core.h:956"
+                      (!type struct 27 nil  gc_unused "anonymous:/tmp/dgboter/bbs/rhev-vm2--rhe6x86_64/buildbot/rhe6x86_64--arm-linux-gnueabi/build/src/gcc/gcc/tree-core.h:956"
                        (!srcfileloc  "tree-core.h" 970)
                        (!fields 3 
                         (!pair  "unextended"
@@ -568,7 +568,7 @@
                       (!srcfileloc  "tree-core.h" 973)
                       nil )
                      (!pair  "vector_cst"
-                      (!type struct 28 nil  gc_unused "anonymous:/tmp/dgboter/bbs/rhev-vm1--rhe6x86_64/buildbot/rhe6x86_64--arm-linux-gnueabi/build/src/gcc/gcc/tree-core.h:976"
+                      (!type struct 28 nil  gc_unused "anonymous:/tmp/dgboter/bbs/rhev-vm2--rhe6x86_64/buildbot/rhe6x86_64--arm-linux-gnueabi/build/src/gcc/gcc/tree-core.h:976"
                        (!srcfileloc  "tree-core.h" 985)
                        (!fields 3 
                         (!pair  "log2_npatterns"
@@ -600,7 +600,7 @@
                       (!srcfileloc  "tree-core.h" 994)
                       nil )
                      (!pair  "dependence_info"
-                      (!type struct 29 nil  gc_unused "anonymous:/tmp/dgboter/bbs/rhev-vm1--rhe6x86_64/buildbot/rhe6x86_64--arm-linux-gnueabi/build/src/gcc/gcc/tree-core.h:1001"
+                      (!type struct 29 nil  gc_unused "anonymous:/tmp/dgboter/bbs/rhev-vm2--rhe6x86_64/buildbot/rhe6x86_64--arm-linux-gnueabi/build/src/gcc/gcc/tree-core.h:1001"
                        (!srcfileloc  "tree-core.h" 1004)
                        (!fields 2 
                         (!pair  "clique"
@@ -2387,7 +2387,7 @@
                        (!srcfileloc  "rtl.h" 398)
                        nil )
                       (!pair  "u2"
-                       (!type union 137 nil  gc_unused "anonymous:/tmp/dgboter/bbs/rhev-vm1--rhe6x86_64/buildbot/rhe6x86_64--arm-linux-gnueabi/build/src/gcc/gcc/rtl.h:400"
+                       (!type union 137 nil  gc_unused "anonymous:/tmp/dgboter/bbs/rhev-vm2--rhe6x86_64/buildbot/rhe6x86_64--arm-linux-gnueabi/build/src/gcc/gcc/rtl.h:400"
                         (!srcfileloc  "rtl.h" 434)
                         (!fields 6 
                          (!pair  "original_regno"
@@ -2411,7 +2411,7 @@
                           (!srcfileloc  "rtl.h" 420)
                           nil )
                          (!pair  "const_vector"
-                          (!type struct 138 nil  gc_unused "anonymous:/tmp/dgboter/bbs/rhev-vm1--rhe6x86_64/buildbot/rhe6x86_64--arm-linux-gnueabi/build/src/gcc/gcc/rtl.h:424"
+                          (!type struct 138 nil  gc_unused "anonymous:/tmp/dgboter/bbs/rhev-vm2--rhe6x86_64/buildbot/rhe6x86_64--arm-linux-gnueabi/build/src/gcc/gcc/rtl.h:424"
                            (!srcfileloc  "rtl.h" 433)
                            (!fields 3 
                             (!pair  "npatterns"
@@ -6587,7 +6587,7 @@
                                     )
                                    )
                                    (!pair  "x"
-                                    (!type struct 328 nil  gc_used "anonymous:/tmp/dgboter/bbs/rhev-vm1--rhe6x86_64/buildbot/rhe6x86_64--arm-linux-gnueabi/build/src/gcc/gcc/basic-block.h:136"
+                                    (!type struct 328 nil  gc_used "anonymous:/tmp/dgboter/bbs/rhev-vm2--rhe6x86_64/buildbot/rhe6x86_64--arm-linux-gnueabi/build/src/gcc/gcc/basic-block.h:136"
                                      (!srcfileloc  "basic-block.h" 139)
                                      (!fields 2 
                                       (!pair  "head_"
@@ -8966,7 +8966,7 @@
                                    (!srcfileloc  "dwarf2out.h" 60)
                                    nil )
                                   (!pair  "dw_cfi_oprnd1"
-                                   (!type union 457 nil  gc_used "anonymous:/tmp/dgboter/bbs/rhev-vm1--rhe6x86_64/buildbot/rhe6x86_64--arm-linux-gnueabi/build/src/gcc/gcc/dwarf2out.h:50"
+                                   (!type union 457 nil  gc_used "anonymous:/tmp/dgboter/bbs/rhev-vm2--rhe6x86_64/buildbot/rhe6x86_64--arm-linux-gnueabi/build/src/gcc/gcc/dwarf2out.h:50"
                                     (!srcfileloc  "dwarf2out.h" 57)
                                     (!fields 5 
                                      (!pair  "dw_cfi_reg_num"
@@ -9590,7 +9590,7 @@
                                                    (!srcfileloc  "dwarf2out.h" 186)
                                                    nil )
                                                   (!pair  "v"
-                                                   (!type union 490 nil  gc_used "anonymous:/tmp/dgboter/bbs/rhev-vm1--rhe6x86_64/buildbot/rhe6x86_64--arm-linux-gnueabi/build/src/gcc/gcc/dwarf2out.h:188"
+                                                   (!type union 490 nil  gc_used "anonymous:/tmp/dgboter/bbs/rhev-vm2--rhe6x86_64/buildbot/rhe6x86_64--arm-linux-gnueabi/build/src/gcc/gcc/dwarf2out.h:188"
                                                     (!srcfileloc  "dwarf2out.h" 191)
                                                     (!fields 2 
                                                      (!pair  "sval"
@@ -11025,7 +11025,7 @@
                       )
                      )
                      (!pair  "loc"
-                      (!type union 540 nil  gc_unused "anonymous:/tmp/dgboter/bbs/rhev-vm1--rhe6x86_64/buildbot/rhe6x86_64--arm-linux-gnueabi/build/src/gcc/gcc/tree-core.h:1425"
+                      (!type union 540 nil  gc_unused "anonymous:/tmp/dgboter/bbs/rhev-vm2--rhe6x86_64/buildbot/rhe6x86_64--arm-linux-gnueabi/build/src/gcc/gcc/tree-core.h:1425"
                        (!srcfileloc  "tree-core.h" 1425)
                        (!fields 2 
                         (!pair  "stmt"
@@ -12779,7 +12779,7 @@
                             (!srcfileloc  "c/c-decl.c" 202)
                             (!fields 11 
                              (!pair  "u"
-                              (!type union 615 nil  gc_used "anonymous:/tmp/dgboter/bbs/rhev-vm1--rhe6x86_64/buildbot/rhe6x86_64--arm-linux-gnueabi/build/src/gcc/gcc/c/c-decl.c:188"
+                              (!type union 615 nil  gc_used "anonymous:/tmp/dgboter/bbs/rhev-vm2--rhe6x86_64/buildbot/rhe6x86_64--arm-linux-gnueabi/build/src/gcc/gcc/c/c-decl.c:188"
                                (!srcfileloc  "c/c-decl.c" 191)
                                (!fields 2 
                                 (!pair  "type"
@@ -14060,7 +14060,7 @@
   )
   nil 1023 nil nil )
  
- (!type struct 669 nil  gc_unused "anonymous:/tmp/dgboter/bbs/rhev-vm1--rhe6x86_64/buildbot/rhe6x86_64--arm-linux-gnueabi/build/src/gcc/gcc/../libcpp/include/line-map.h:1276"nil 
+ (!type struct 669 nil  gc_unused "anonymous:/tmp/dgboter/bbs/rhev-vm2--rhe6x86_64/buildbot/rhe6x86_64--arm-linux-gnueabi/build/src/gcc/gcc/../libcpp/include/line-map.h:1276"nil 
   (!fields 0 )
   nil 0 nil nil )
  
@@ -14138,11 +14138,11 @@
   (!fields 0 )
   nil 0 nil nil )
  
- (!type struct 684 nil  gc_unused "anonymous:/tmp/dgboter/bbs/rhev-vm1--rhe6x86_64/buildbot/rhe6x86_64--arm-linux-gnueabi/build/src/gcc/gcc/../libcpp/include/cpplib.h:1131"nil 
+ (!type struct 684 nil  gc_unused "anonymous:/tmp/dgboter/bbs/rhev-vm2--rhe6x86_64/buildbot/rhe6x86_64--arm-linux-gnueabi/build/src/gcc/gcc/../libcpp/include/cpplib.h:1131"nil 
   (!fields 0 )
   nil 0 nil nil )
  
- (!type struct 685 nil  gc_unused "anonymous:/tmp/dgboter/bbs/rhev-vm1--rhe6x86_64/buildbot/rhe6x86_64--arm-linux-gnueabi/build/src/gcc/gcc/../libcpp/include/cpplib.h:1142"nil 
+ (!type struct 685 nil  gc_unused "anonymous:/tmp/dgboter/bbs/rhev-vm2--rhe6x86_64/buildbot/rhe6x86_64--arm-linux-gnueabi/build/src/gcc/gcc/../libcpp/include/cpplib.h:1142"nil 
   (!fields 0 )
   nil 0 nil nil )
  
@@ -14592,7 +14592,7 @@
     (!srcfileloc  "gimple.h" 359)
     nil )
    (!pair  "u"
-    (!type union 737 nil  gc_used "anonymous:/tmp/dgboter/bbs/rhev-vm1--rhe6x86_64/buildbot/rhe6x86_64--arm-linux-gnueabi/build/src/gcc/gcc/gimple.h:362"
+    (!type union 737 nil  gc_used "anonymous:/tmp/dgboter/bbs/rhev-vm2--rhe6x86_64/buildbot/rhe6x86_64--arm-linux-gnueabi/build/src/gcc/gcc/gimple.h:362"
      (!srcfileloc  "gimple.h" 365)
      (!fields 2 
       (!pair  "fntype"
@@ -15230,7 +15230,7 @@
  
  (!type already_seen 446)
  
- (!type struct 786 nil  gc_unused "anonymous:/tmp/dgboter/bbs/rhev-vm1--rhe6x86_64/buildbot/rhe6x86_64--arm-linux-gnueabi/build/src/gcc/gcc/config/arm/arm.h:1422"nil 
+ (!type struct 786 nil  gc_unused "anonymous:/tmp/dgboter/bbs/rhev-vm2--rhe6x86_64/buildbot/rhe6x86_64--arm-linux-gnueabi/build/src/gcc/gcc/config/arm/arm.h:1422"nil 
   (!fields 0 )
   nil 0 nil nil )
  
@@ -21061,7 +21061,7 @@
   (!fields 0 )
   nil 0 nil nil )
  
- (!type union 1304 nil  gc_unused "anonymous:/tmp/dgboter/bbs/rhev-vm1--rhe6x86_64/buildbot/rhe6x86_64--arm-linux-gnueabi/build/src/gcc/gcc/mcf.c:343"nil 
+ (!type union 1304 nil  gc_unused "anonymous:/tmp/dgboter/bbs/rhev-vm2--rhe6x86_64/buildbot/rhe6x86_64--arm-linux-gnueabi/build/src/gcc/gcc/mcf.c:343"nil 
   (!fields 0 )
   nil 0 nil )
  
@@ -21472,7 +21472,7 @@
   (!fields 0 )
   nil 0 nil nil )
  
- (!type union 1363 nil  gc_unused "anonymous:/tmp/dgboter/bbs/rhev-vm1--rhe6x86_64/buildbot/rhe6x86_64--arm-linux-gnueabi/build/src/gcc/gcc/tree-eh.c:53"nil 
+ (!type union 1363 nil  gc_unused "anonymous:/tmp/dgboter/bbs/rhev-vm2--rhe6x86_64/buildbot/rhe6x86_64--arm-linux-gnueabi/build/src/gcc/gcc/tree-eh.c:53"nil 
   (!fields 0 )
   nil 0 nil )
  
@@ -21892,11 +21892,11 @@
   (!fields 0 )
   nil 0 nil nil )
  
- (!type struct 1446 nil  gc_unused "anonymous:/tmp/dgboter/bbs/rhev-vm1--rhe6x86_64/buildbot/rhe6x86_64--arm-linux-gnueabi/build/src/gcc/gcc/config/arm/arm.c:2433"nil 
+ (!type struct 1446 nil  gc_unused "anonymous:/tmp/dgboter/bbs/rhev-vm2--rhe6x86_64/buildbot/rhe6x86_64--arm-linux-gnueabi/build/src/gcc/gcc/config/arm/arm.c:2433"nil 
   (!fields 0 )
   nil 0 nil nil )
  
- (!type struct 1447 nil  gc_unused "anonymous:/tmp/dgboter/bbs/rhev-vm1--rhe6x86_64/buildbot/rhe6x86_64--arm-linux-gnueabi/build/src/gcc/gcc/config/arm/arm.c:3788"nil 
+ (!type struct 1447 nil  gc_unused "anonymous:/tmp/dgboter/bbs/rhev-vm2--rhe6x86_64/buildbot/rhe6x86_64--arm-linux-gnueabi/build/src/gcc/gcc/config/arm/arm.c:3788"nil 
   (!fields 0 )
   nil 0 nil nil )
  
@@ -22700,7 +22700,7 @@
   (!fields 0 )
   nil 0 nil nil )
  
- (!type struct 1582 nil  gc_unused "anonymous:/tmp/dgboter/bbs/rhev-vm1--rhe6x86_64/buildbot/rhe6x86_64--arm-linux-gnueabi/build/src/gcc/gcc/config/arm/arm-builtins.c:299"nil 
+ (!type struct 1582 nil  gc_unused "anonymous:/tmp/dgboter/bbs/rhev-vm2--rhe6x86_64/buildbot/rhe6x86_64--arm-linux-gnueabi/build/src/gcc/gcc/config/arm/arm-builtins.c:299"nil 
   (!fields 0 )
   nil 0 nil nil )
  
@@ -22837,7 +22837,7 @@
   )
  )
  
- (!type struct 1607 nil  gc_unused "anonymous:/tmp/dgboter/bbs/rhev-vm1--rhe6x86_64/buildbot/rhe6x86_64--arm-linux-gnueabi/build/src/gcc/gcc/ada/gcc-interface/decl.c:249"nil 
+ (!type struct 1607 nil  gc_unused "anonymous:/tmp/dgboter/bbs/rhev-vm2--rhe6x86_64/buildbot/rhe6x86_64--arm-linux-gnueabi/build/src/gcc/gcc/ada/gcc-interface/decl.c:249"nil 
   (!fields 0 )
   nil 0 nil nil )
  
@@ -23630,7 +23630,7 @@
   (!fields 0 )
   nil 0 nil nil )
  
- (!type struct 1694 nil  gc_unused "anonymous:/tmp/dgboter/bbs/rhev-vm1--rhe6x86_64/buildbot/rhe6x86_64--arm-linux-gnueabi/build/src/gcc/gcc/c/c-parser.c:6823"nil 
+ (!type struct 1694 nil  gc_unused "anonymous:/tmp/dgboter/bbs/rhev-vm2--rhe6x86_64/buildbot/rhe6x86_64--arm-linux-gnueabi/build/src/gcc/gcc/c/c-parser.c:6823"nil 
   (!fields 0 )
   nil 0 nil nil )
  
@@ -25509,7 +25509,7 @@
   (!fields 0 )
   nil 0 nil nil )
  
- (!type struct 1871 nil  gc_unused "anonymous:/tmp/dgboter/bbs/rhev-vm1--rhe6x86_64/buildbot/rhe6x86_64--arm-linux-gnueabi/build/src/gcc/gcc/fortran/trans.h:33"nil 
+ (!type struct 1871 nil  gc_unused "anonymous:/tmp/dgboter/bbs/rhev-vm2--rhe6x86_64/buildbot/rhe6x86_64--arm-linux-gnueabi/build/src/gcc/gcc/fortran/trans.h:33"nil 
   (!fields 0 )
   nil 0 nil nil )
  
@@ -25533,11 +25533,11 @@
   (!fields 0 )
   nil 0 nil nil )
  
- (!type struct 1877 nil  gc_unused "anonymous:/tmp/dgboter/bbs/rhev-vm1--rhe6x86_64/buildbot/rhe6x86_64--arm-linux-gnueabi/build/src/gcc/gcc/fortran/trans.h:390"nil 
+ (!type struct 1877 nil  gc_unused "anonymous:/tmp/dgboter/bbs/rhev-vm2--rhe6x86_64/buildbot/rhe6x86_64--arm-linux-gnueabi/build/src/gcc/gcc/fortran/trans.h:390"nil 
   (!fields 0 )
   nil 0 nil nil )
  
- (!type struct 1878 nil  gc_unused "anonymous:/tmp/dgboter/bbs/rhev-vm1--rhe6x86_64/buildbot/rhe6x86_64--arm-linux-gnueabi/build/src/gcc/gcc/fortran/trans.h:402"nil 
+ (!type struct 1878 nil  gc_unused "anonymous:/tmp/dgboter/bbs/rhev-vm2--rhe6x86_64/buildbot/rhe6x86_64--arm-linux-gnueabi/build/src/gcc/gcc/fortran/trans.h:402"nil 
   (!fields 0 )
   nil 0 nil nil )
  
