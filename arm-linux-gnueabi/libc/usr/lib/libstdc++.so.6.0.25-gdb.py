@@ -19,7 +19,7 @@ import gdb
 import os
 import os.path
 
-pythondir = '/share/gcc-8.2.1/python'
+pythondir = '/share/gcc-8.3.0/python'
 libdir = '/arm-linux-gnueabi/lib'
 
 # This file might be loaded when there is no current objfile.  This

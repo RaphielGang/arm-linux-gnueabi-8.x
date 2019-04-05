@@ -1,5 +1,5 @@
 This is doc/gfortran.info, produced by makeinfo version 4.13 from
-/tmp/dgboter/bbs/rhev-vm2--rhe6x86_64/buildbot/rhe6x86_64--arm-linux-gnueabi/build/src/gcc/gcc/fortran/gfortran.texi.
+/tmp/dgboter/bbs/rhev-vm10--rhe6x86_64/buildbot/rhe6x86_64--arm-linux-gnueabi/build/src/gcc/gcc/fortran/gfortran.texi.
 
 Copyright (C) 1999-2018 Free Software Foundation, Inc.
 
@@ -2656,8 +2656,8 @@ are four-byte integers by default, and eight-byte integers if the
 compability only) is in effect.
 
    The representation of the record markers is that of unformatted files
-given with the `-fconvert' option, the *Note CONVERT specifier:: on the
-open statement or the *Note GFORTRAN_CONVERT_UNIT:: environment
+given with the `-fconvert' option, the *note CONVERT specifier:: in an
+open statement or the *note GFORTRAN_CONVERT_UNIT:: environment
 variable.
 
    The maximum number of bytes of user data in a subrecord is 2147483639
@@ -22701,53 +22701,53 @@ Keyword Index
 
 
 Tag Table:
-Node: Top2058
-Node: Introduction3475
-Node: About GNU Fortran4224
-Node: GNU Fortran and GCC8225
-Node: Preprocessing and conditional compilation10339
-Node: GNU Fortran and G7711983
-Node: Project Status12556
-Node: Standards15300
-Node: Varying Length Character Strings16691
-Node: Invoking GNU Fortran17442
-Node: Option Summary19276
-Node: Fortran Dialect Options23151
-Node: Preprocessing Options34712
-Node: Error and Warning Options42943
-Node: Debugging Options54683
-Node: Directory Options58711
-Node: Link Options60146
-Node: Runtime Options60770
-Node: Code Gen Options62675
-Node: Interoperability Options80533
-Node: Environment Variables81574
-Node: Runtime82187
-Node: TMPDIR83223
-Node: GFORTRAN_STDIN_UNIT83892
-Node: GFORTRAN_STDOUT_UNIT84274
-Node: GFORTRAN_STDERR_UNIT84675
-Node: GFORTRAN_UNBUFFERED_ALL85077
-Node: GFORTRAN_UNBUFFERED_PRECONNECTED85608
-Node: GFORTRAN_SHOW_LOCUS86252
-Node: GFORTRAN_OPTIONAL_PLUS86748
-Node: GFORTRAN_LIST_SEPARATOR87226
-Node: GFORTRAN_CONVERT_UNIT87834
-Node: GFORTRAN_ERROR_BACKTRACE90697
-Node: Fortran standards status91254
-Node: Fortran 2003 status91546
-Node: Fortran 2008 status96783
-Node: TS 29113 status102153
-Node: TS 18508 status103151
-Node: Fortran 2018 status103967
-Node: Compiler Characteristics104587
-Node: KIND Type Parameters105260
-Node: Internal representation of LOGICAL variables106689
-Node: Thread-safety of the runtime library107549
-Node: Data consistency and durability109953
-Node: Files opened without an explicit ACTION= specifier113054
-Node: File operations on symbolic links113748
-Node: File format of unformatted sequential files114869
+Node: Top2059
+Node: Introduction3476
+Node: About GNU Fortran4225
+Node: GNU Fortran and GCC8226
+Node: Preprocessing and conditional compilation10340
+Node: GNU Fortran and G7711984
+Node: Project Status12557
+Node: Standards15301
+Node: Varying Length Character Strings16692
+Node: Invoking GNU Fortran17443
+Node: Option Summary19277
+Node: Fortran Dialect Options23152
+Node: Preprocessing Options34713
+Node: Error and Warning Options42944
+Node: Debugging Options54684
+Node: Directory Options58712
+Node: Link Options60147
+Node: Runtime Options60771
+Node: Code Gen Options62676
+Node: Interoperability Options80534
+Node: Environment Variables81575
+Node: Runtime82188
+Node: TMPDIR83224
+Node: GFORTRAN_STDIN_UNIT83893
+Node: GFORTRAN_STDOUT_UNIT84275
+Node: GFORTRAN_STDERR_UNIT84676
+Node: GFORTRAN_UNBUFFERED_ALL85078
+Node: GFORTRAN_UNBUFFERED_PRECONNECTED85609
+Node: GFORTRAN_SHOW_LOCUS86253
+Node: GFORTRAN_OPTIONAL_PLUS86749
+Node: GFORTRAN_LIST_SEPARATOR87227
+Node: GFORTRAN_CONVERT_UNIT87835
+Node: GFORTRAN_ERROR_BACKTRACE90698
+Node: Fortran standards status91255
+Node: Fortran 2003 status91547
+Node: Fortran 2008 status96784
+Node: TS 29113 status102154
+Node: TS 18508 status103152
+Node: Fortran 2018 status103968
+Node: Compiler Characteristics104588
+Node: KIND Type Parameters105261
+Node: Internal representation of LOGICAL variables106690
+Node: Thread-safety of the runtime library107550
+Node: Data consistency and durability109954
+Node: Files opened without an explicit ACTION= specifier113055
+Node: File operations on symbolic links113749
+Node: File format of unformatted sequential files114870
 Node: Extensions117217
 Node: Extensions implemented in GNU Fortran117822
 Node: Old-style kind specifications119721
